@@ -1,4 +1,32 @@
-<div align="center">
+
+
+# 源码分析
+
+## 文件结构
+
+``` bash
+/Users/liufang/openSource/FunnyLiu/utility-types
+├── src
+|  ├── aliases-and-guards.ts
+|  ├── functional-helpers.ts
+|  ├── index.ts
+|  ├── mapped-types.ts
+|  └── utility-types.ts
+
+directory: 4 file: 32
+
+ignored
+
+```
+
+## 外部模块依赖
+
+请在： http://npm.broofa.com?q=utility-types 查看
+
+## 内部模块依赖
+
+![img](./inner.svg)
+  
 
 # utility-types
 
